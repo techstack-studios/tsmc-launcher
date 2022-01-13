@@ -1,19 +1,11 @@
-# Hello Minecraft! Launcher [![Build Status](https://ci.huangyuhui.net/job/HMCL/badge/icon?.svg)](https://ci.huangyuhui.net/job/HMCL)
-
-Join chat! [Discord](https://discord.gg/jVvC7HfM6U) [KaiHeiLa](https://kaihei.co/Kx7n3t)
+# TSMC Launcher
 
 ## Introduction
 
-HMCL is a Minecraft launcher which supports Mod management, game customizing, auto installing(Forge, LiteLoader and OptiFine), modpack creating, UI customizing and so on.
-
-No plugin API is provided.
+TSMC Launcher is a customized version of [HMCL](https://github.com/huanghongxun/HMCL).
 
 ## Download
 Download the latest version [from the official website](https://hmcl.huangyuhui.net/download)
-
-Note: The recent versions in Github release is the beta version, which contains extra testing functions compared to the release versions on the official website. However, they may be unstable and you're more likely to encounter bugs or unexpected problems.
-
-If not necessary, it is recommended to download the ones from the official website.
 
 ## License
 The software is distributed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) with additional terms.
